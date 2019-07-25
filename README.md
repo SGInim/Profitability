@@ -8,3 +8,21 @@ Additionally, Blackwell expresses their interest in assessing the impact of serv
 The analysis followed the common data mining approach including the following steps:
 Exploration, pre-processing, modelling and optimization, prediction, and evaluation.
 For the analysis, the statistical programming language R was used with different packages (highlighting ‘caret’ to apply several prediction techniques). Other tests include Correlation Matrix, Random Forest and ANOVA. These were applied to assess the importance of ‘product type’ among other attributes.
+
+# RESULTS
+
+Product Type | Brand    | Volume  | Profit (in k$)
+------------ | -------  | ------  | ------  
+Netbook	     |Acer	    | 734     | 22 
+PC	         |Dell1	    | 267     | 47 
+Smartphone	 |Samsung2  | 267     | 2 
+Laptop	     |Apple	    | 225     | 27
+Smartphone	 |Motorola1	| 181     | 4
+Smartphone	 |Motorola2	| 167     | 6
+PC	         |Dell2	    | 152     | 26
+Netbook	     |Asus	    | 137     | 7
+Smartphone	 |HTC	      | 134     | 3
+Netbook	     |hp	      | 101     | 3
+Netbook	     |Samsung1	| 95      | 3
+Laptop	     |Toshiba	  | 77      | 14
+Laptop	     |Razer	    | 0       | 0
